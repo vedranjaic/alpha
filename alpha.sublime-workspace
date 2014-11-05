@@ -1,0 +1,1798 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_sear",
+				"get_search_query"
+			],
+			[
+				"gftr",
+				"cairo_scaled_font_get_font_matrix"
+			],
+			[
+				"gethe",
+				"get_header"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"have_",
+				"have_posts"
+			],
+			[
+				"rewin",
+				"rewind_posts"
+			],
+			[
+				"the_a",
+				"the_author_meta"
+			],
+			[
+				"get_thea",
+				"get_the_author_meta"
+			],
+			[
+				"commentf",
+				"comment_form"
+			],
+			[
+				"getop",
+				"get_option"
+			],
+			[
+				"wp_listc",
+				"wp_list_comments"
+			],
+			[
+				"number_f",
+				"number_format_i18n"
+			],
+			[
+				"get_comme",
+				"get_comments"
+			],
+			[
+				"password_re",
+				"post_password_required"
+			],
+			[
+				"get_template",
+				"get_template_part"
+			],
+			[
+				"get_tempdi",
+				"get_template_directory"
+			],
+			[
+				"wp_nav",
+				"wp_nav_menu"
+			],
+			[
+				"body",
+				"body_class"
+			],
+			[
+				"gtftr",
+				"get_footer"
+			],
+			[
+				"get_he",
+				"get_header"
+			],
+			[
+				"previus",
+				"previous_posts_link"
+			],
+			[
+				"get_pre",
+				"get_previous_posts_link"
+			],
+			[
+				"get_temp",
+				"get_template_directory_uri"
+			],
+			[
+				"the",
+				"the_author"
+			],
+			[
+				"is_user",
+				"is_user_logged_in"
+			],
+			[
+				"comments",
+				"comments_open"
+			],
+			[
+				"cate",
+				"category_list"
+			],
+			[
+				"get_theca",
+				"get_the_category_list"
+			],
+			[
+				"get_the",
+				"get_the_date"
+			],
+			[
+				"get_the_auth",
+				"get_the_author_meta"
+			],
+			[
+				"getauthpo",
+				"get_the_author_posts"
+			],
+			[
+				"prin",
+				"printf"
+			],
+			[
+				"is_st",
+				"is_sticky"
+			],
+			[
+				"get_post_t",
+				"get_post_type"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"has_post",
+				"has_post_thumbnail"
+			],
+			[
+				"get_pos",
+				"get_post_format"
+			],
+			[
+				"get_te",
+				"get_template_part"
+			],
+			[
+				"have",
+				"have_posts"
+			],
+			[
+				"add_them",
+				"add_theme_support"
+			],
+			[
+				"add_th",
+				"add_theme_support"
+			],
+			[
+				"lang",
+				"lang_dir"
+			],
+			[
+				"content",
+				"content_width"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"get_sty",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ma",
+				"marketplace"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"gre",
+				"grey-light"
+			],
+			[
+				"f",
+				"fw	font-weight"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"top",
+				"top-cta"
+			],
+			[
+				"entry",
+				"entry-video"
+			],
+			[
+				"kor",
+				"korisnik"
+			],
+			[
+				"ko",
+				"korisnik"
+			],
+			[
+				"en",
+				"entry-title"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"entr",
+				"entry-content"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"post",
+				"post-title"
+			],
+			[
+				"margn",
+				"margin-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mat",
+				"margin-top"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"korisnik",
+				"korisnik-star"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tem",
+				"templateFooter"
+			],
+			[
+				"ffffff",
+				"FFFFFF"
+			],
+			[
+				"moz-animat",
+				"moz-animation-fill-mode"
+			],
+			[
+				"po",
+				"pos:r	position:relative"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"pos",
+				"pos:a	position:absolute"
+			],
+			[
+				"cj",
+				"cjenik-paket-cijena"
+			],
+			[
+				"cjenik",
+				"cjenik-paket-cijena"
+			],
+			[
+				"cjenik-",
+				"cjenik-paket-content"
+			],
+			[
+				"funlab_",
+				"funlab_cf_cjenik_lineafter1"
+			],
+			[
+				"funlab_cf",
+				"funlab_cf_cjenik_cijena1"
+			],
+			[
+				"cjenik_",
+				"cjenik_lineafter1"
+			],
+			[
+				"funlab_cf_",
+				"funlab_cf_cjenik_linebefore1"
+			],
+			[
+				"gal",
+				"gal-thumb-title"
+			],
+			[
+				"nor",
+				"no-repeat"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"boo",
+				"bootstrap-wp-navwalker"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"1em",
+				"1em"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"lead",
+				"lead-cat-row"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"auth",
+				"author-slide-projects"
+			],
+			[
+				"sta",
+				"standard-box"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"like",
+				"like_box"
+			],
+			[
+				"mrb",
+				"margin-bottom"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"ca",
+				"carousel-indicators"
+			],
+			[
+				"car",
+				"carousel-indicators"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"pr",
+				"project-recommended-box"
+			],
+			[
+				"ie",
+				"item-description"
+			],
+			[
+				"is_tax",
+				"is_taxonomy_hierarchical"
+			],
+			[
+				"bacc",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 2351,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sidebar.php",
+			"settings":
+			{
+				"buffer_size": 221,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "footer.php",
+			"settings":
+			{
+				"buffer_size": 487,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 1384,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "page.php",
+			"settings":
+			{
+				"buffer_size": 1152,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "category.php",
+			"settings":
+			{
+				"buffer_size": 797,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "search.php",
+			"settings":
+			{
+				"buffer_size": 623,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template-full-width.php",
+			"settings":
+			{
+				"buffer_size": 1177,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bs-config.js",
+			"settings":
+			{
+				"buffer_size": 1447,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 341.0,
+		"selected_items":
+		[
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"Snippet: ",
+				"Snippet: rect"
+			],
+			[
+				"remove",
+				"Emmet: Remove Tag"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/vedranjaic/dev/alpha/archive.php",
+		"/Users/vedranjaic/dev/alpha/404.php",
+		"/Users/vedranjaic/dev/alpha/tag.php",
+		"/Users/vedranjaic/dev/alpha/author.php",
+		"/Users/vedranjaic/dev/alpha/includes/meta-tags.php",
+		"/Users/vedranjaic/dev/alpha/includes/widget-areas.php",
+		"/Users/vedranjaic/dev/alpha/sidebar-footer.php",
+		"/Users/vedranjaic/dev/alpha/page.php",
+		"/Users/vedranjaic/dev/alpha/comments.php",
+		"/Users/vedranjaic/dev/alpha/single.php",
+		"/Users/vedranjaic/dev/alpha/index.php",
+		"/Users/vedranjaic/dev/alpha/content.php",
+		"/Users/vedranjaic/dev/alpha/includes/post-navigation.php",
+		"/Users/vedranjaic/dev/alpha/content-quote.php",
+		"/Users/vedranjaic/dev/alpha/content-none.php",
+		"/Users/vedranjaic/dev/alpha/content-audio.php",
+		"/Users/vedranjaic/dev/alpha/content-video.php",
+		"/Users/vedranjaic/dev/alpha/content-image.php",
+		"/Users/vedranjaic/dev/alpha/content-link.php",
+		"/Users/vedranjaic/dev/alpha/content-gallery.php",
+		"/Users/vedranjaic/dev/alpha/style.css",
+		"/Users/vedranjaic/dev/alpha/functions.php",
+		"/Users/vedranjaic/dev/alpha/bs-config.js",
+		"/Users/vedranjaic/dev/alpha/includes/init.php",
+		"/Users/vedranjaic/dev/recikliranjestakla/includes/template-tags.php",
+		"/Users/vedranjaic/dev/recikliranjestakla/todo.md",
+		"/Users/vedranjaic/dev/recikliranjestakla/footer.php",
+		"/Users/vedranjaic/dev/recikliranjestakla/includes/sass/_bootstrap-wp.scss",
+		"/Users/vedranjaic/dev/recikliranjestakla/includes/custom-post-types.php",
+		"/Users/vedranjaic/dev/recikliranjestakla/page.php",
+		"/Users/vedranjaic/dev/recikliranjestakla/archive.php",
+		"/Users/vedranjaic/dev/recikliranjestakla/content-aktualnosti.php",
+		"/Users/vedranjaic/dev/recikliranjestakla/includes/enqueue-scripts.php",
+		"/Users/vedranjaic/dev/recikliranjestakla/index.php",
+		"/Users/vedranjaic/dev/recikliranjestakla/sidebar.php",
+		"/Users/vedranjaic/dev/recikliranjestakla/includes/extras.php",
+		"/Users/vedranjaic/dev/recikliranjestakla/includes/sass/_font-awesome.min.scss",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/404.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/archive.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/comments.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/content-page.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/content-single.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/content.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/footer.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/header.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/image.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/index.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/no-results.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/page.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/rtl.css",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/search.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/searchform.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/sidebar.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/single.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/style.css",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/includes/custom-header.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/includes/customizer.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/includes/extras.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/includes/jetpack.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/includes/template-tags.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/languages/de_DE.po",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/languages/es_ES.po",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/languages/it_IT.po",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/languages/nb_NO.po",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/languages/nl_NL.po",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/languages/ru_RU.po",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/functions.php",
+		"/Users/vedranjaic/Dropbox/design/working/VETROPACK/web/recikliranjestakla/README.md",
+		"/Users/vedranjaic/Dropbox/BackupSublime/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/FRANCK/franck_kavakava_marketplace/sass/_animations.scss",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/FRANCK/franck_kavakava_marketplace/frontpage-intro.php",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/FRANCK/franck_kavakava_marketplace/frontpage-whatis.php",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/FRANCK/franck_kavakava_marketplace/frontpage-marketplace.php",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/FRANCK/franck_kavakava_marketplace/sidebar-kafici-mapa.php",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/FRANCK/franck_kavakava_marketplace/header.php",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/FRANCK/franck_kavakava_marketplace/sass/_layout-kafici.scss",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/FRANCK/franck_kavakava_marketplace/sass/_layout-index.scss",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/FRANCK/franck_kavakava_marketplace/kafici-lista.php",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/FRANCK/franck_kavakava_marketplace/sass/_typography.scss",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/FRANCK/franck_kavakava_marketplace/js/kavakava.js",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/FRANCK/franck_kavakava_marketplace/frontpage.php",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/FRANCK/franck_kavakava_marketplace/index.php",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/FRANCK/franck_kavakava_marketplace/footer.php",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/FRANCK/franck_kavakava_marketplace/sass/_header.scss",
+		"/Users/vedranjaic/Dropbox/BackupSublime/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/ZABA/web/zaba_zzz/inc/post-format/content-image.php",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/FRANCK/franck_kavakava_marketplace/page-help-odgovori.php",
+		"/var/folders/ry/9wx151ls0x32r6p1h5_s7nsw0000gn/T/ie_css_hacks.css",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/ZABA/web/zaba_zzz/sftp-config.json",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/TCOM/HT/FACEBOOK/HTML/ht_super_tjedan/sass/_layout-opcije.scss",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/TCOM/HT/FACEBOOK/HTML/ht_super_tjedan/sass/_layout-closed.scss",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/TCOM/HT/FACEBOOK/HTML/ht_super_tjedan/sass/_layout-webshop-ponuda.scss",
+		"/Users/vedranjaic/Dropbox/BackupSublime/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/developers/shoebedo/newsletter/mailchimp_html/sbd_mailchimp_template.html",
+		"/Users/vedranjaic/Movies/_torrents/SVGUncovered/tp_svgu.nfo",
+		"/Users/vedranjaic/Movies/_torrents/IntroToCinema4D/tp_itc4d.nfo",
+		"/Volumes/developers/shoebedo/newsletter/mailchimp_html/base_boxed_3column_query.html",
+		"/Volumes/developers/shoebedo/newsletter/mailchimp_html/base_boxed_basic_2column_query.html",
+		"/Users/vedranjaic/Dropbox/Design/WORKING/ShoeBeDo/sbd_newsletter_mailchimp/20140325/sbd_newsletter.html",
+		"/Users/vedranjaic/Dropbox/design/working/ShoeBeDo/sbd_newsletter_mailchimp/20140401/sbd_newsletter.html",
+		"/Users/vedranjaic/Dropbox/BackupSublime/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/vedranjaic/dev/playground/includes/sass/_defaults.scss",
+		"/Users/vedranjaic/dev/playground/includes/sass/_layout-index.scss",
+		"/Users/vedranjaic/Dropbox/BackupSublime/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/vedranjaic/dev/playground/index.php",
+		"/Users/vedranjaic/dev/playground/header.php",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/TCOM/HT/FACEBOOK/HTML/ht_super_tjedan/images/logo.min.svg",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/TCOM/HT/FACEBOOK/HTML/ht_super_tjedan/sass/_variables.scss",
+		"/Users/vedranjaic/Dropbox/DEVELOPERS/TCOM/HT/FACEBOOK/HTML/ht_super_tjedan/sass/_layout-index.scss",
+		"/Users/vedranjaic/Dropbox/design/working/LABORATORIJZABAVE/funlab/header.php",
+		"/Users/vedranjaic/Dropbox/design/working/LABORATORIJZABAVE/funlab/includes/sass/_media_queries.scss",
+		"/Users/vedranjaic/Dropbox/design/working/LABORATORIJZABAVE/funlab/includes/sass/ie.scss",
+		"/Users/vedranjaic/Dropbox/design/working/LABORATORIJZABAVE/funlab/includes/sass/_layout-index.scss",
+		"/Users/vedranjaic/Dropbox/design/working/LABORATORIJZABAVE/funlab/includes/sass/_typography.scss",
+		"/Users/vedranjaic/Dropbox/design/working/LABORATORIJZABAVE/funlab/includes/sass/_variables.scss",
+		"/Users/vedranjaic/Dropbox/design/working/LABORATORIJZABAVE/funlab/includes/sass/_layout-newsletter.scss",
+		"/Users/vedranjaic/Dropbox/design/working/LABORATORIJZABAVE/funlab/includes/sass/_layout-cjenik.scss",
+		"/Users/vedranjaic/Dropbox/design/working/LABORATORIJZABAVE/funlab/includes/sass/_footer.scss",
+		"/Users/vedranjaic/Dropbox/design/working/LABORATORIJZABAVE/funlab/includes/sass/_defaults.scss",
+		"/Users/vedranjaic/Dropbox/design/working/LABORATORIJZABAVE/funlab/front-page.php",
+		"/Users/vedranjaic/Dropbox/design/working/LABORATORIJZABAVE/funlab/includes/js/bootstrap-wp.js",
+		"/Users/vedranjaic/Dropbox/design/working/LABORATORIJZABAVE/funlab/includes/content-albums.php",
+		"/Users/vedranjaic/Dropbox/design/working/LABORATORIJZABAVE/funlab/content-galerija-single.php",
+		"/Users/vedranjaic/Dropbox/design/working/LABORATORIJZABAVE/funlab/includes/sass/_ff.scss",
+		"/Users/vedranjaic/Dropbox/design/working/LABORATORIJZABAVE/funlab/includes/sass/ff.scss",
+		"/Users/vedranjaic/Dropbox/design/working/LABORATORIJZABAVE/funlab/sftp-config.json",
+		"/Users/vedranjaic/Dropbox/design/working/LABORATORIJZABAVE/funlab/content-onama.php",
+		"/Users/vedranjaic/Dropbox/design/working/LABORATORIJZABAVE/funlab/page.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"category",
+			"ol",
+			"alpha_widget_init",
+			"args",
+			"icons/",
+			"previous",
+			"category",
+			"1.62",
+			"-lg",
+			"additional",
+			"recikliranjestakla_posted_on",
+			"-md",
+			"10",
+			"btn btn-primary",
+			" </span>",
+			"content-padder",
+			"Proizvod",
+			"proizvodi",
+			"Proizvodi",
+			"proizvodi",
+			"\"additional",
+			"why-glass",
+			".svg'",
+			"Lorem ipsum dolor sit amet, consectetur.",
+			"adipisicing",
+			"h4",
+			"više",
+			"col-sm-4",
+			"include(",
+			"include",
+			"../",
+			"  ",
+			"bootstrap",
+			"767",
+			"990",
+			"_tk-",
+			" _tk",
+			"_tk_",
+			"'_tk'",
+			"_tk-",
+			" _tk",
+			"_tk_",
+			"'_tk'",
+			"border=\"0",
+			"border=\"1",
+			"border=\"0",
+			"10",
+			"5",
+			"10",
+			"5",
+			"ffffff",
+			"border=\"1",
+			"5",
+			" bgcolor=\"#ffffff\"",
+			"border=\"1",
+			"center",
+			"20",
+			"50",
+			"lg",
+			"20",
+			"45",
+			"30",
+			"70",
+			"105",
+			"NAGRADE",
+			"3",
+			"border=\"0",
+			"30",
+			"border=\"1",
+			"5",
+			"border=\"1",
+			"252525",
+			"30",
+			"border=\"0",
+			"titleWhatsNew",
+			"logoImage",
+			"KuZ_Natjecaj",
+			"http://shoebedo.com/hr/brand/vans/",
+			"827",
+			"optionsRadios",
+			"inputEmail3",
+			"inputPassword3",
+			"-sm-10",
+			"-sm-2",
+			"opacity: 0;",
+			"    ",
+			"   ",
+			"  ",
+			"5",
+			"kosarica blink",
+			"fa-shopping-cart",
+			"Dodaj ",
+			"md",
+			"-9",
+			"3",
+			"text-align",
+			"60",
+			".kavakava-icon",
+			".btn-add-basket",
+			"homepage",
+			"fa-search",
+			"h4",
+			"h3",
+			"Naziv kafića, Adresa ulica 123",
+			"Lorem ipsum dolor sit amet.",
+			"homepage",
+			"30",
+			"border=\"1",
+			"border=\"0",
+			"disclaimer",
+			"h2",
+			"CONTENT",
+			"10",
+			"ffffff",
+			"border=\"1",
+			"f8f8f8",
+			"border=\"1",
+			"10",
+			"30",
+			"2",
+			"30",
+			"f7f4e8",
+			"252525",
+			"20",
+			"border=\"0",
+			"FFFFFF",
+			"58585a",
+			"entry-video"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"recikliranjestakla-",
+			" RecikliranjeStakla",
+			"recikliranjestakla_",
+			"'_recikliranjestakla'",
+			"_recikliranjestakla-",
+			" _recikliranjestakla",
+			"_recikliranjestakla_",
+			"'recikliranjestakla'",
+			"border=\"1",
+			"border=\"0",
+			"border=\"1",
+			"border=\"0",
+			"border=\"1",
+			"border=\"0",
+			"border=\"1",
+			"border=\"0",
+			"border=\"1",
+			"border=\"0",
+			"border=\"1",
+			"105%;",
+			"funlab-",
+			" FunLab",
+			"funlab_",
+			"'funlab'"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "header.php",
+					"settings":
+					{
+						"buffer_size": 2351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2351,
+								2351
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 582.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sidebar.php",
+					"settings":
+					{
+						"buffer_size": 221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "footer.php",
+					"settings":
+					{
+						"buffer_size": 487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "functions.php",
+					"settings":
+					{
+						"buffer_size": 1384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1374,
+								1374
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 506.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "page.php",
+					"settings":
+					{
+						"buffer_size": 1152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1152
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "category.php",
+					"settings":
+					{
+						"buffer_size": 797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								797
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "search.php",
+					"settings":
+					{
+						"buffer_size": 623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "template-full-width.php",
+					"settings":
+					{
+						"buffer_size": 1177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "bs-config.js",
+					"settings":
+					{
+						"buffer_size": 1447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								584,
+								584
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.65,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 108.0
+	},
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pag",
+				"page.php"
+			],
+			[
+				"comm",
+				"comments.php"
+			],
+			[
+				"meta",
+				"includes/meta-tags.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"w",
+				"includes/widget-areas.php"
+			],
+			[
+				"nn",
+				"content-none.php"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"bs",
+				"bs-config.js"
+			],
+			[
+				"cont",
+				"content.php"
+			],
+			[
+				"arc",
+				"archive.php"
+			],
+			[
+				"sin",
+				"single.php"
+			],
+			[
+				"side",
+				"sidebar.php"
+			],
+			[
+				"foot",
+				"footer.php"
+			],
+			[
+				"kaf",
+				"kafici-karta.php"
+			],
+			[
+				"konta",
+				"sass/_layout-kontakt.scss"
+			],
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"fron",
+				"frontpage-intro.php"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"var",
+				"sass/_variables.scss"
+			],
+			[
+				"js",
+				"js/kavakava.js"
+			],
+			[
+				"st",
+				"includes/sass/style.scss"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"def",
+				"includes/sass/_defaults.scss"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"media",
+				"includes/sass/_media_queries.scss"
+			],
+			[
+				"he",
+				"includes/sass/_header.scss"
+			],
+			[
+				"ty",
+				"includes/sass/_typography.scss"
+			],
+			[
+				"album",
+				"includes/content-albums.php"
+			],
+			[
+				"ff",
+				"includes/sass/_ff.scss"
+			],
+			[
+				"bootwp",
+				"includes/js/bootstrap-wp.js"
+			],
+			[
+				"fr",
+				"front-page.php"
+			],
+			[
+				"alb",
+				"includes/content-albums.php"
+			],
+			[
+				"gal",
+				"content-galerija.php"
+			],
+			[
+				"pr",
+				"content-proizvodi.php"
+			],
+			[
+				"onam",
+				"content-onama.php"
+			],
+			[
+				"page",
+				"page.php"
+			],
+			[
+				"layn",
+				"includes/sass/_layout-newsletter.scss"
+			],
+			[
+				"med",
+				"includes/sass/_media_queries.scss"
+			],
+			[
+				"front",
+				"front-page.php"
+			],
+			[
+				"cjenik",
+				"content-cjenik.php"
+			],
+			[
+				"index",
+				"includes/sass/_layout-index.scss"
+			],
+			[
+				"kont",
+				"content-kontakt.php"
+			],
+			[
+				"va",
+				"includes/sass/_variables.scss"
+			],
+			[
+				"typo",
+				"includes/sass/_typography.scss"
+			],
+			[
+				"cj",
+				"content-cjenik.php"
+			],
+			[
+				"arch",
+				"archive.php"
+			],
+			[
+				"kon",
+				"content-kontakt.php"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"cjen",
+				"content-cjenik.php"
+			],
+			[
+				"que",
+				"includes/sass/_media_queries.scss"
+			],
+			[
+				"proi",
+				"content-proizvodi.php"
+			],
+			[
+				"pah",
+				"page.php"
+			],
+			[
+				"cust",
+				"includes/custom-post-types.php"
+			],
+			[
+				"post",
+				"includes/custom-post-types.php"
+			],
+			[
+				"box",
+				"includes/custom-meta-boxes.php"
+			],
+			[
+				"cjeni",
+				"content-cjenik.php"
+			],
+			[
+				"content.",
+				"content.php"
+			],
+			[
+				"sing",
+				"content-single.php"
+			],
+			[
+				"cjenk",
+				"content-cjenik.php"
+			],
+			[
+				"blog",
+				"includes/sass/_layout-blog.scss"
+			],
+			[
+				"sto",
+				"sidebar-stonudimo.php"
+			],
+			[
+				"contpr",
+				"content-proizvodi.php"
+			],
+			[
+				"sft",
+				"sftp-config.json"
+			],
+			[
+				"custo",
+				"includes/custom-post-types.php"
+			],
+			[
+				"stonu",
+				"includes/sass/_layout-stonudimo.scss"
+			],
+			[
+				"prop",
+				"content-proizvodi.php"
+			],
+			[
+				"pages",
+				"includes/sass/_layout-pages.scss"
+			],
+			[
+				"pro",
+				"includes/sass/_layout-proizvodi.scss"
+			],
+			[
+				"temp",
+				"temp.php"
+			],
+			[
+				"ston",
+				"sidebar-stonudimo.php"
+			],
+			[
+				"header",
+				"includes/sass/_header.scss"
+			],
+			[
+				"hed",
+				"header.php"
+			],
+			[
+				"foote",
+				"includes/sass/_footer.scss"
+			],
+			[
+				"newslet",
+				"includes/sass/_layout-newsletter.scss"
+			],
+			[
+				"style",
+				"includes/sass/style.scss"
+			],
+			[
+				"hea",
+				"includes/sass/_header.scss"
+			],
+			[
+				"gale",
+				"includes/sass/_layout-galerija.scss"
+			],
+			[
+				"stonud",
+				"includes/sass/_layout-stonudimo.scss"
+			],
+			[
+				"onama",
+				"includes/sass/_layout-onama.scss"
+			],
+			[
+				"galer",
+				"includes/sass/_layout-galerija.scss"
+			],
+			[
+				"conta",
+				"includes/content-albums.php"
+			],
+			[
+				"g",
+				"content-galerija.php"
+			],
+			[
+				"on",
+				"content-onama.php"
+			],
+			[
+				"cus",
+				"includes/custom-post-types.php"
+			],
+			[
+				"con",
+				"content-proizvodi.php"
+			],
+			[
+				"pa",
+				"page.php"
+			],
+			[
+				"t",
+				"includes/sass/_typography.scss"
+			],
+			[
+				"ga",
+				"content-galerija.php"
+			],
+			[
+				"ko",
+				"content-kontakt.php"
+			],
+			[
+				"jso",
+				"sftp-config.json"
+			],
+			[
+				"p",
+				"page.php"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"enq",
+				"includes/enqueue-scripts.php"
+			],
+			[
+				"albu",
+				"includes/content-albums.php"
+			],
+			[
+				"medi",
+				"includes/sass/_media_queries.scss"
+			],
+			[
+				"wid",
+				"includes/widget-calendar.php"
+			],
+			[
+				"lay",
+				"includes/sass/_layout-stonudimo.scss"
+			],
+			[
+				"layout-s",
+				".sass-cache/960d3ec7668f1b0d9f711a284e8f395eb7a196b1/_layout-stonudimo.scssc"
+			],
+			[
+				"boo",
+				"includes/js/bootstrap-wp.js"
+			],
+			[
+				"defa",
+				"includes/sass/_defaults.scss"
+			],
+			[
+				"content",
+				"content-proizvodi.php"
+			],
+			[
+				"tem",
+				"temp.php"
+			],
+			[
+				"4",
+				"404.php"
+			],
+			[
+				"news",
+				"content-newsletter.php"
+			],
+			[
+				"bootstrap-w",
+				"includes/css/_bootstrap-wp.scss"
+			],
+			[
+				"o",
+				"includes/sass/_layout-onama.scss"
+			],
+			[
+				"new",
+				"content-newsletter.php"
+			],
+			[
+				"en",
+				"includes/enqueue-scripts.php"
+			],
+			[
+				"",
+				"content-newsletter.php"
+			],
+			[
+				"mix",
+				"includes/sass/_mixins.scss"
+			],
+			[
+				"bar",
+				"bar.html"
+			],
+			[
+				"l",
+				"sass/_layout-index.scss"
+			],
+			[
+				"mixi",
+				"sass/_mixins.scss"
+			],
+			[
+				"cate",
+				"content/category.php"
+			],
+			[
+				"nav",
+				"content/nav.php"
+			],
+			[
+				"mo",
+				"content/tools/most_active_users.php"
+			],
+			[
+				"prof",
+				"content/profil.php"
+			],
+			[
+				"main",
+				"static/js/main.js"
+			],
+			[
+				"custom",
+				"static/css_backup/custom.css"
+			],
+			[
+				"layout",
+				"static/sass/_layout-project.scss"
+			],
+			[
+				"naslo",
+				"content/naslovnica.php"
+			],
+			[
+				"cat",
+				"static/sass/_layout-categories.scss"
+			],
+			[
+				"nas",
+				"content/naslovnica.php"
+			],
+			[
+				"most",
+				"content/tools/most_active_users.php"
+			],
+			[
+				"inde",
+				"index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true
+}
