@@ -59,6 +59,8 @@ require get_template_directory() . '/includes/paging-navigation.php';
 // Register widget areas
 require get_template_directory() . '/includes/widget-areas.php';
 
+// Enqueue scripts
+require get_template_directory() . '/includes/enqueue-scripts.php';
 
 
 

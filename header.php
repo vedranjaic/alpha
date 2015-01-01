@@ -28,6 +28,23 @@
 		<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 	<![endif]-->
 
+	<?php if ( ! is_front_page() ) { ?>
+	<div class="header-image">
+		<?php 
+			$thumbnail = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), 'thumbnail' );
+			$medium = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), 'medium' );
+			$large = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), 'large' );
+			$full = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), 'full' );
+			echo ('<img src="' . $thumbnail[0] . '"');
+			echo ('srcset="' . $medium[0] . ' 375w, ' .$large[0] . ' 480w, ' . $full[0] . ' 768w"');
+			echo ('sizes="100%"');
+			echo ('alt="Detailed image description');
+			echo ('">');
+		?>
+	</div>
+	<!-- /.header-image -->
+	<?php } else {} ?>
+
 	<header class="site-header" role="banner">
 
 		<div class="container header-contents">

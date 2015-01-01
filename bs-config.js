@@ -18,7 +18,7 @@ module.exports = {
         debounceDelay: 1000
     },
     "server": false,
-    "proxy": "192.168.0.73:8888",
+    "proxy": "192.168.0.18:8888",
     "port": 3000,
     "ghostMode": {
         "clicks": true,
